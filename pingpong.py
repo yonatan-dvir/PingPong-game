@@ -75,8 +75,8 @@ player = pygame.Rect(screen_width - 15, screen_height/2 - 70, 10, 140)
 opponent = pygame.Rect(5, screen_height/2 - 70, 10, 140)
 
 # create 2 colors..
-bg_color = pygame.Color('grey12')
-light_grey = (200, 200, 200)
+bg_color = pygame.Color('green12')
+light_grey = (100, 100, 100)
 
 # def ball speed
 ball_s_x = 10
